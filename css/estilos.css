@@ -1,0 +1,24 @@
+
+footer{
+    background-color: black;   
+}
+
+footer h4 {
+    color: white;
+}
+
+footer p{
+    color: white;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+}
+
+#navbarNav{
+    background-color: aquamarine;
+}
